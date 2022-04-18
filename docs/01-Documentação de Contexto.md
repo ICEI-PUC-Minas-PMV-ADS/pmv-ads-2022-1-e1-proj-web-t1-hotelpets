@@ -1,46 +1,42 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Segundo dados do IBGE, O Brasil possui, atualmente, 54,2 milhões de cães e 23,9 milhões de gatos. Sendo que dos 65 milhões de domicílios do país 44,3% possuem pelo menos um cachorro e 17,7% pelo menos um gato. Isso representa mais cães e gatos do que crianças nos lares brasileiros. (IBGE,2018)
+
+Uma pesquisa realizada pelo Ibope Inteligência, em parceria com o Centro de Pesquisa Waltham e o professor doutor Ricardo Dias, docente da Faculdade de Medicina Veterinária da USP (Universidade de São Paulo) indicou que dos entrevistados, 68% acreditam que os cães trazem conforto emocional e 44% veem seus cachorros como filhos. 
+
+Essa grande proximidade entre donos e pets faz crescer preocupações que exigem novos cuidados. A necessidade de sair de casa e deixar os animais sozinhos é uma dessas questões. Muitos hotéis vem surgindo para solucionar esse problema. Mais do que proporcionar comodidade aos tutores, esses lugares também estão se caracterizando pelo trabalho apurado com o bem-estar físico e até psicológico do animal. A ideia é fazer os pets se sentirem em uma nova casa. (TÁDZIO, 2022)
+
+Encontrar esses hotéis nem sempre é uma tarefa fácil visto que muitos iniciam como um serviço oferecido nas residências dos ofertantes e sem nenhum tipo de divulgação online. Assim, a angústia da busca acaba aumentando ainda mais o desconforto dos donos num momento que por si só gera grande preocupação. Por isso, um portal que faça a ponte entre os donos de pets e esses espaços vem para facilitar a comunicação,transformando essa tarefa num processo mais leve e satisfatório.
+
+Através de uma pesquisa de mercado foi possível encontrar o portal DogHero, em que um sistema de busca que atende a esta necessidade é disponibilizado. Assim, este trabalho contará com o aprendizado adquirido deste produto em vigor no mercado e incluirá as alterações que se mostrarem pertinentes.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Esse projeto propõe resolver essa questão de limitação que dificulta a busca de hotéis para pets através dos canais de divulgação, com uma ferramenta prática e funcional.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é a criação de um site que vai reunir em um só lugar, diversas opções de hotéis para pet.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Os objetivos específicos podem ser pontuados como: 
+- Fornecer uma ferramenta de busca mais objetiva para pessoas que procuram hotéis para pets. 
+- Agrupar em apenas um endereço eletrônico diversas opções de acordo com a região em que a pessoa reside. 
+- Apresentar um calendário com a disponibilidade de cada estabelecimento.
+- Apresentar informações sobre o estabelecimento;
+- Permitir que o usuário realize o agendamento;
+- Exibir avaliações realizadas pelos donos para cada estabelecimento.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+De acordo com a médica veterinária do Centro de Controle de Zoonoses (CCZ) de Campo Grande (MS), Ana Paula Nogueira, deixar os animais sozinhos em casa durante três ou quatro dias, mesmo que com comida ao seu dispor, configura crime de abandono. Em contrapartida, quem tem cachorrinhos de estimação sabe que tornou-se um dilema viajar quando não há possibilidade de levar o mesmo para a viagem. É grande o número de animais que ficam abandonados em casos assim, e muitas vezes, por falta de divulgação e acessibilidade e outras alternativas, como por exemplo, hotéis e hospedagens para cachorros. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Como citado acima, tal ato de 'abandono' do pet, seja por pouco tempo, pode configurar inclusive um crime. Dessa forma, observa-se que é necessário um meio que possa reunir todos os caminhos e alternativas para ajudar as pessoas que não tem com quem deixar os pets para que receba o devido cuidado, assim como alimentação devida e correta. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Com o site de Hospedagem Animal, conseguiremos reunir alternativas para que donos encontrem locais e deixem seus pets seguros enquanto viajam ou estão distantes.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Uma pesquisa realizada pelo Serviço de Proteção ao Crédito (SPC Brasil) e pela Confederação Nacional de Dirigentes Lojistas (CNDL) em todas as capitais com internautas que possuem ou são responsáveis financeiros por um animal de estimação apresenta um relativo equilíbrio quanto ao perfil dos internautas donos de animais de estimação : 50% são mulheres contra 50% de homens; 54% pertencem às classes C, D e E e 46% às classes A e B. A maioria tem entre 25 e 44 anos (58%) e moram em casas (77%). Os que moram em apartamentos somam 23% da amostra e 82% cuidam pessoalmente de seu pet.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Consideramos como foco de nossa aplicação homens e mulheres, das classes A e B, entre 25 e 44 anos que moram em casas ou apartamentos e possuem animais de estimação.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> incluir personas 
