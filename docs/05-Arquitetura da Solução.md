@@ -10,7 +10,7 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na Figura XX.
 
-!(https://ibb.co/S0Sgwhz)
+![ARQUITETURA DE SOLUÇÃO](Arquitetura de Solução.png)
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
