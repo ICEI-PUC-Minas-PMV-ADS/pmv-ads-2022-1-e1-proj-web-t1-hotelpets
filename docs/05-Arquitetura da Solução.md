@@ -10,7 +10,7 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na Figura XX.
 
-!(pmv-ads-2022-1-e1-proj-web-t1-hotelpets/Arquitetura de Solução.png)
+![image](https://user-images.githubusercontent.com/103541503/164996236-49ee42ad-5bde-4e19-b601-b884c240ae35.png)
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
