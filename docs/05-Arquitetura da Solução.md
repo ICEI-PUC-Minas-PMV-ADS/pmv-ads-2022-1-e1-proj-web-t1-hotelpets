@@ -8,9 +8,9 @@ Os componentes que fazem parte da solução são apresentados no diagrama da fig
 
 Exemplo: 
 
-Os componentes que fazem parte da solução são apresentados na Figura XX.
+Os componentes que fazem parte da solução são apresentados na figura abaixo
 
-![image](https://user-images.githubusercontent.com/103541503/164996236-49ee42ad-5bde-4e19-b601-b884c240ae35.png)
+![image](https://user-images.githubusercontent.com/103541503/164996306-e0cbf35b-0239-4e23-b6ed-9b9c045edf23.png)
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
