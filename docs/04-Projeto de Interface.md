@@ -13,25 +13,26 @@ O diagrama apresentado na figura a seguir mostra o fluxo de interação do usuá
 
 ## Wireframes
 
-Tela 01: Página Inicial
+### Tela 01: Página Inicial
+
 ![Tela 01: Página Inicial](img/telaPaginaInicial.jpg)
 
-Tela 02: Retorno da Busca de Hospedagens
+### Tela 02: Retorno da Busca de Hospedagens
 
 ![Tela 02: Retorno da Busca de Hospedagens](img/telaBuscaHospedagens.png)
 
-Tela 03: Hospedagem Específica
+### Tela 03: Hospedagem Específica
 
 ![Tela 03: Hospedagem Específica](img/telaHospedagemEspecifica.png)
 
-Tela 04: Login
+### Tela 04: Login
 
 ![Tela 04: Login](img/telaLogin.png)
 
-Tela 05: Cadastro
+### Tela 05: Cadastro
 
 ![Tela 05: Cadastro](img/telaCadastro.png)
 
-Tela 06: Pagamento
+### Tela 06: Pagamento
 
 ![Tela 06: Pagamento](img/telaPagamento.png)
