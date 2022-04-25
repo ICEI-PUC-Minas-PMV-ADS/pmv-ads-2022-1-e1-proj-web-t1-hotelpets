@@ -38,5 +38,3 @@ Com o site de Hospedagem Animal, conseguiremos reunir alternativas para que dono
 Uma pesquisa realizada pelo Serviço de Proteção ao Crédito (SPC Brasil) e pela Confederação Nacional de Dirigentes Lojistas (CNDL) em todas as capitais com internautas que possuem ou são responsáveis financeiros por um animal de estimação apresenta um relativo equilíbrio quanto ao perfil dos internautas donos de animais de estimação : 50% são mulheres contra 50% de homens; 54% pertencem às classes C, D e E e 46% às classes A e B. A maioria tem entre 25 e 44 anos (58%) e moram em casas (77%). Os que moram em apartamentos somam 23% da amostra e 82% cuidam pessoalmente de seu pet.
 
 Consideramos como foco de nossa aplicação homens e mulheres, das classes A e B, entre 25 e 44 anos que moram em casas ou apartamentos e possuem animais de estimação.
-
-> incluir personas 
