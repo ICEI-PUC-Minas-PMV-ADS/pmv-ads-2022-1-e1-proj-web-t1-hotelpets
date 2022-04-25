@@ -8,23 +8,17 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas abaixo:
 
-1. Carlos Vasconcelos: 40 anos; Dentista. Possui consultório próprio e também atua dando palestras/cursos presenciais e online. ; Possui dois pets: Husky Siberiano de nome Ghost e Chow Chow de nome Lion; Buscar um lugar onde seus pets sejam bem cuidados e que  consiga  identificar com antecedência as datas disponíveis para organizar agenda. ; Deseja viajar tranquilamente ; Se frustra ao  ter de cancelar viagens e atendimentos por não conseguir alguém para ficar com meus pets. ; Não tem confiança em pessoas/estabelecimentos pois já passou por situações em que os pets não foram bem cuidados. ;  Gosta de pedalar, ler e passear com  cachorros.
+1. Carlos Vasconcelos: 40 anos; Dentista. Possui consultório próprio e também atua dando palestras/cursos presenciais e online. ; Possui dois pets: Husky Siberiano de nome Ghost e Chow Chow de nome Lion; Busca um lugar onde seus pets sejam bem cuidados e que  consiga  identificar com antecedência as datas disponíveis para organizar agenda. ; Deseja viajar tranquilamente ; Se frustra ao  ter de cancelar viagens e atendimentos por não conseguir alguém para ficar com meus pets. ; Não tem confiança em pessoas/estabelecimentos pois já passou por situações em que os pets não foram bem cuidados. ;  Gosta de pedalar, ler e passear com  cachorros.
 
-2.  Fernanda Anjos
+2.  Fernanda Anjos: 25 anos;  Formada em Enfermagem. Atualmente plantonista em duas emergências de saúde.; Possui um Poodle de nome Totó; Deseja ter acesso a informações sobre  hotéis em que possa hospedar seu pet antes de agendar para que possa escolher um local com mais segurança.; Deseja também achar avaliações que a façam confiar em tais locais. ; Se frustra ao perder plantão por muitas vezes não ter com quem deixar o cachorro e já ter perdido um cachorro por tê-lo deixado sozinho e consequentemente ter acontecido um acidente. ; Gosta de NFT, Natação e Jogos online
 
-Idade: 25 anos
+3. Heloísa Medeiros: 29 anos; Formada em Jornalismo e atua como redatora em uma grande emissora.; Possui uma Pug de nome Safira e uma Poodle de nome Jade; Deseja encontrar um local de confiança para deixar seus pets quando precisar fazer viagens a lazer ou a trabalho e busca lugares com avaliações positivas e disponibilidade de horário. ; Se frustra ao incomodar vizinhos quando precisa ir trabalhar em dias ou horários inesperados e em ter de deixar os pets sozinhos em casa sem saber das suas condições. ; Gosta de Ciclismo, fazer trilha, aprender novos idiomas.
 
-Ocupação: Formada em Enfermagem. Atualmente plantonista em duas emergências de saúde.
+4. Carla Vitória: 25 anos; Dentista. Possui consultório próprio e também atua dando palestras/cursos presenciais e online; Possui um Yorkshire e Pug de nomes Theo e Max; Deseja encontrar um hotel de qualidade para seu pet que seja próximo a sua casa para fazer viagens a trabalho sem preocupações; Se frustra pela falta de confiança nos hotéis que tem encontrado e se preocupa durante suas viagens sem saber se seu pet está sendo bem cuidado ou não.; Gosta de assistir filmes, viajar e cozinhar.
 
-Pets: Poodle de nome Totó.
- 
-Motivações:
-Ter acesso a informações sobre  hotéis em que posso hospedar meu pet antes de agendar para que eu possa escolher um local com mais segurança.; Achar avaliações que a façam confiar em tais locais. Avaliações majoritariamente positivas.
+5. Frascis Carneiro: 25 anos; Atendente de telemarketing.; Possui American Bully & Vira-lata; Deseja encontrar locais em que possa fazer o agendamento para hospedar seu pet. ; Se frustra por não poder sair com a namorada sem levar os cachorros, pois não consegue deixá-los sozinhos. ; Gosta de Video-Game, Sinuca e Jiu-Jitsu.
 
-Frustrações:
- Perder plantão por muitas vezes não ter com quem deixar o cachorro.;Já ter perdido um cachorro por tê-lo deixado sozinho e consequentemente ter acontecido um acidente.
- 
-Hobbies: NFT, Natação e Jogos online
+6. Vilma Benevides: 40 anos; Professora; Possui um Poodle de nome Bidu e  Chow Chow de nome Belinha; Busca um local que possa atender sua cachorra Belinha que possui diabetes e problemas renais, precisando de atenção específica diária. ; Se frustra pois não consegue mais viajar já que não encontra uma pessoa capacitada para cuidar e oferecer as medicações necessárias para sua cachorra.; Gosta de viajar, aprender novos idiomas e conhecer novas culturas.
 
 
 ## Histórias de Usuários
@@ -52,7 +46,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ATIVIDADES COMUNS ENTRE USUÁRIOS VISITANTES E CADASTRADOS
 
-|ID    | Descrição do Requisito  | Prioridade |
+|ID    | Descrição do Requisito  | Prioridade (Moscow)  |
 |------|-----------------------------------------|----|
 |RF-001| O sistema deve permitir a busca de hospedagens a partir de um endereço e de um período entre datas informadas pelo usuário. | M | 
 |RF-002| O sistema deve possuir filtros de pesquisa.   | M |
