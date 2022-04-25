@@ -82,7 +82,7 @@ W (Won’t have this time) - Talvez depois: Atividades que são inviáveis de en
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+O projeto está restrito pelos itens apresentados na tabela a seguir: 
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
