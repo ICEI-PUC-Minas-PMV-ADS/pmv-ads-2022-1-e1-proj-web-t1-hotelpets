@@ -8,7 +8,38 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas abaixo:
 
-1. Carlos Vasconcelos: 40 anos; Dentista. Possui consultório próprio e também atua dando palestras/cursos presenciais e online. ; Possui dois pets: Husky Siberiano de nome Ghost e Chow Chow de nome Lion; Busca um lugar onde seus pets sejam bem cuidados e que  consiga  identificar com antecedência as datas disponíveis para organizar agenda. ; Deseja viajar tranquilamente ; Se frustra ao  ter de cancelar viagens e atendimentos por não conseguir alguém para ficar com meus pets. ; Não tem confiança em pessoas/estabelecimentos pois já passou por situações em que os pets não foram bem cuidados. ;  Gosta de pedalar, ler e passear com  cachorros.
+## 1. Carlos Vasconcelos: ##
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103954209/166630697-0214c68d-3385-4083-b2ca-76aaa5d4539b.png" width="100px" />
+</div> 
+
+|1  | CARLOS VASCONCELOS | PETS  |
+|------|-----------------------------------------|----|
+|IDADE | 40 | Husky Siberiano de nome Ghost. | 
+|OCUPAÇÃO | Dentista. Possui consultório próprio e também atua dando palestras/cursos presenciais e online.  | Chow Chow de nome Lion| 
+|MOTIVAÇÕES| 1.Buscar um lugar onde meus pets sejam bem cuidados e que eu consiga  identificar com antecedência as datas disponíveis para organizar minha agenda. 2.  Poder viajar tranquilamente.
+|FRUSTRAÇÕES| 1. Cancelar viagens e atendimentos por não conseguir alguém para ficar com meus pets. 2. Não tem confiança em pessoas/estabelecimentos pois já passou por situações em que os pets não foram bem cuidados.  | | 
+|HOBBIES/HISTÓRIA | 1. Gosta de pedalar. 2. Ler. 3. Passear com  cachorros | | 
+
+## 2. Fernanda Anjos: ##
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103954209/166633434-9ea481af-0adb-479d-bb4f-ec3637940c23.png" width="100px" />
+</div> 
+
+|2  | FERNANDA ANJOS | PETS  |
+|------|-----------------------------------------|----|
+|IDADE | 25 | Poodle de nome Totó | 
+|OCUPAÇÃO | Enfermeira.Atualmente plantonista em duas emergências de saúde.  | | 
+|MOTIVAÇÕES| 1.Deseja ter acesso a informações sobre  hotéis em que possa hospedar seu pet antes de agendar para que possa escolher um local com mais segurança. 2.  Deseja também achar avaliações que a façam confiar em tais locais.
+|FRUSTRAÇÕES| 1. Se frustra ao perder plantão por muitas vezes não ter com quem deixar o pet e já ter perdido um cachorro por tê-lo deixado sozinho e consequentemente ter acontecido um acidente. 2. Não tem confiança em pessoas/estabelecimentos pois já passou por situações em que os pets não foram bem cuidados.  | | 
+|HOBBIES/HISTÓRIA | 1. Gosta de NFT. 2. Natação. 3. Jogos online | | 
+
+
+
 
 2.  Fernanda Anjos: 25 anos;  Formada em Enfermagem. Atualmente plantonista em duas emergências de saúde.; Possui um Poodle de nome Totó; Deseja ter acesso a informações sobre  hotéis em que possa hospedar seu pet antes de agendar para que possa escolher um local com mais segurança.; Deseja também achar avaliações que a façam confiar em tais locais. ; Se frustra ao perder plantão por muitas vezes não ter com quem deixar o cachorro e já ter perdido um cachorro por tê-lo deixado sozinho e consequentemente ter acontecido um acidente. ; Gosta de NFT, Natação e Jogos online
 
