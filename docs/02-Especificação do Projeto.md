@@ -105,17 +105,23 @@ viagem sem saber se seu pet está sendo bem cuidado ou não. | |
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-1. Carlos Vasconcelos: Busca um lugar que cuide dos meus pets com a devida atenção para viajar com tranquilidade sabendo que seus pets estão tendo o cuidado e carinho necessário. ; Busca também um local que disponibilize datas para agendamento com antecedência para conseguir marcar palestras e cursos com mais segurança, assim como atendimentos em seu consultório.
+## 1. Carlos Vasconcelos: ## 
+Busca um lugar que cuide dos meus pets com a devida atenção para viajar com tranquilidade sabendo que seus pets estão tendo o cuidado e carinho necessário. ; Busca também um local que disponibilize datas para agendamento com antecedência para conseguir marcar palestras e cursos com mais segurança, assim como atendimentos em seu consultório.
 
-2. Fernanda Anjos: Busca ter informações dos hotéis antes de hospedar para que possa escolher um local com mais segurança e conseguir deixar meu pet sem peso algum na consciência ; 
+## 2. Fernanda Anjos: ##
+Busca ter informações dos hotéis antes de hospedar para que possa escolher um local com mais segurança e conseguir deixar meu pet sem peso algum na consciência ; 
 
-3. Heloísa Medeiros: Busca mais opções para encontrar melhores hotéis para seus animais e espera garantia para conseguir encontrar lugares seguros com profissionais qualificados.
+## 3. Heloísa Medeiros: ##
+Busca mais opções para encontrar melhores hotéis para seus animais e espera garantia para conseguir encontrar lugares seguros com profissionais qualificados.
 
-4. Carla Vitória: Busca Uma empresa com profissionais qualificados para que ela possa viajar sabendo que seu pet está em ótimas condições. Busca também um hotel de qualidade e confiança para seu pet, que seja próximo a sua casa para que não seja preciso se deslocar para longe para deixar seu pet no hotel.
+## 4. Carla Vitória: ##
+Busca Uma empresa com profissionais qualificados para que ela possa viajar sabendo que seu pet está em ótimas condições. Busca também um hotel de qualidade e confiança para seu pet, que seja próximo a sua casa para que não seja preciso se deslocar para longe para deixar seu pet no hotel.
 
-5. Frascis Carneiro: Deseja encontrar locais em que eu possa fazer agendamento para hospedar seu pet pois algumas vezes no mês, preciso fazer viagens de negócios, tendo que deixá-los em casa sozinhos.
+## 5. Frascis Carneiro: ##
+Deseja encontrar locais em que eu possa fazer agendamento para hospedar seu pet pois algumas vezes no mês, preciso fazer viagens de negócios, tendo que deixá-los em casa sozinhos.
 
-6. Vilma Benevides: Busca um local em que os responsáveis tenham formação veterinária e sejam capacitados para cuidar da minha cachorra Belinha para que possa viajar como fazia antes da cachorrinha desenvolver diabetes e problemas renais.
+## 6. Vilma Benevides: ## 
+Busca um local em que os responsáveis tenham formação veterinária e sejam capacitados para cuidar da minha cachorra Belinha para que possa viajar como fazia antes da cachorrinha desenvolver diabetes e problemas renais.
 
 
 ## Requisitos
@@ -129,8 +135,8 @@ ATIVIDADES COMUNS ENTRE USUÁRIOS VISITANTES E CADASTRADOS
 |ID    | Descrição do Requisito  | Prioridade (Moscow)  |
 |------|-----------------------------------------|----|
 |RF-001| O sistema deve permitir a busca de hospedagens a partir de um endereço e de um período entre datas informadas pelo usuário. | M | 
-|RF-002| O sistema deve possuir filtros de pesquisa.   | M |
-|RF-003| O sistema deve possuir filtros de pesquisa.   | M |
+|RF-002| O sistema deve possuir filtros de pesquisa de tamanhos dos cachorros.   | M |
+|RF-003| O sistema deve mostrar o local exato no mapa de onde ficam os hotéis.   | M |
 
 ATIVIDADES ESPECÍFICAS PARA USUÁRIO CADASTRADO
 
