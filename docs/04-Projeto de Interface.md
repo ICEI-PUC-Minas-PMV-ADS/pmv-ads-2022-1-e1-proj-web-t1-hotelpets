@@ -9,7 +9,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 O diagrama apresentado na figura a seguir mostra o fluxo de interação do usuário que deseja buscar e contratar uma hospedagem pelas telas do sistema. As telas deste fluxo são detalhadas na seção de Wireframes que se segue.
 
-![Fluxo do Usuário](img/fluxodousuario.png)
+![Fluxo do Usuário](https://user-images.githubusercontent.com/103954209/166649289-36663b4a-260c-4354-8360-c3f0e95b172d.png)
 
 ## Wireframes
 
