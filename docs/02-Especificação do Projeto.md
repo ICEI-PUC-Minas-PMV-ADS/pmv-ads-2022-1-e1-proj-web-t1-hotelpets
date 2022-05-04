@@ -33,23 +33,72 @@ As personas levantadas durante o processo de entendimento do problema são apres
 |2  | FERNANDA ANJOS | PETS  |
 |------|-----------------------------------------|----|
 |IDADE | 25 | Poodle de nome Totó | 
-|OCUPAÇÃO | Enfermeira.Atualmente plantonista em duas emergências de saúde.  | | 
-|MOTIVAÇÕES| 1.Deseja ter acesso a informações sobre  hotéis em que possa hospedar seu pet antes de agendar para que possa escolher um local com mais segurança. 2.  Deseja também achar avaliações que a façam confiar em tais locais.
+|OCUPAÇÃO | Enfermeira. Atualmente plantonista em duas emergências de saúde.  | | 
+|MOTIVAÇÕES| 1. Deseja ter acesso a informações sobre  hotéis em que possa hospedar seu pet antes de agendar para que possa escolher um local com mais segurança. 2.  Deseja também achar avaliações que a façam confiar em tais locais.
 |FRUSTRAÇÕES| 1. Se frustra ao perder plantão por muitas vezes não ter com quem deixar o pet e já ter perdido um cachorro por tê-lo deixado sozinho e consequentemente ter acontecido um acidente. 2. Não tem confiança em pessoas/estabelecimentos pois já passou por situações em que os pets não foram bem cuidados.  | | 
 |HOBBIES/HISTÓRIA | 1. Gosta de NFT. 2. Natação. 3. Jogos online | | 
 
+## 3. Heloísa Medeiros: ##
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103954209/166634098-4663b25e-d966-4c7a-a11e-52ec001d7a76.png" width="100px" />
+</div> 
+
+|3 | HELOÍSA MEDEIROS | PETS  |
+|------|-----------------------------------------|----|
+|IDADE | 29 | Pug de nome Safira| 
+|OCUPAÇÃO | Formada em Jornalismo e atua como redatora em uma grande emissora.  |Poodle de nome Jade | 
+|MOTIVAÇÕES| 1. Encontrar um local de confiança para deixar seus pets quando precisar fazer viagens a lazer ou a trabalho. 2.  Buscar lugares com avaliações positivas e disponibilidade de horário.
+|FRUSTRAÇÕES| 1. Se frustra ao incomodar vizinhos quando precisa ir trabalhar em dias ou horários inesperados e em ter de deixar os pets sozinhos em casa sem saber das suas condições. 2. Deixar os pets sozinhos em casa sem saber das suas condições. | | 
+|HOBBIES/HISTÓRIA | 1. Gosta de Ciclismo 2. Fazer trilha 3. Aprender novos idiomas | | 
+
+## 4. Carla Vitória: ##
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103954209/166635042-8ea4e918-4ef3-43f7-971d-f60cff2554c9.png" width="100px" />
+</div> 
+
+
+|4 | CARLA VITÓRIA | PETS  |
+|------|-----------------------------------------|----|
+|IDADE | 25 | Pug de nome Max| 
+|OCUPAÇÃO | Dentista. Possui consultório próprio e também atua dando palestras/cursos presenciais e online. |Yorkshire de nome Theo | 
+|MOTIVAÇÕES| 1. Deseja encontrar um hotel de qualidade para seu pet que seja próximo a sua casa para fazer viagens a trabalho sem preocupações 2. Fazer viagens a trabalho sem preocupações.| |
+|FRUSTRAÇÕES| 1. Se frustra pela falta de confiança nos hotéis que tem encontrado e se preocupa durante suas viagens sem saber se seu pet está sendo bem cuidado ou não. 2. Preocupação durante a
+viagem sem saber se seu pet está sendo bem cuidado ou não. | | 
+|HOBBIES/HISTÓRIA | 1. Gosta de assistir filmes 2. Viajar. 3. Cozinhar | | 
+
+
+## 5. Frascis Carneiro: ##
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103954209/166635703-4ef7cfd5-571a-4dd9-bf69-54308a6ba854.png" width="100px" />
+</div> 
+
+|5 | FRASCIS CARNEIRO | PETS  |
+|------|-----------------------------------------|----|
+|IDADE | 25 | American Bully| 
+|OCUPAÇÃO | Atendente de telemarketing. |Vira-lata | 
+|MOTIVAÇÕES| Deseja encontrar locais em que possa fazer o agendamento para hospedar seu pet.| |
+|FRUSTRAÇÕES|Se frustra por não poder sair com a namorada sem levar os cachorros, pois não consegue deixá-los sozinhos. | | 
+|HOBBIES/HISTÓRIA | 1.  Gosta de Video-Game. 2. Sinuca. 3. Jiu-Jitsu | | 
 
 
 
-2.  Fernanda Anjos: 25 anos;  Formada em Enfermagem. Atualmente plantonista em duas emergências de saúde.; Possui um Poodle de nome Totó; Deseja ter acesso a informações sobre  hotéis em que possa hospedar seu pet antes de agendar para que possa escolher um local com mais segurança.; Deseja também achar avaliações que a façam confiar em tais locais. ; Se frustra ao perder plantão por muitas vezes não ter com quem deixar o cachorro e já ter perdido um cachorro por tê-lo deixado sozinho e consequentemente ter acontecido um acidente. ; Gosta de NFT, Natação e Jogos online
+## 6. Vilma Benevides: ##
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103954209/166636103-38a6ac88-0687-429c-ac2d-b556b3d56fb0.png" width="100px" />
+</div> 
 
-3. Heloísa Medeiros: 29 anos; Formada em Jornalismo e atua como redatora em uma grande emissora.; Possui uma Pug de nome Safira e uma Poodle de nome Jade; Deseja encontrar um local de confiança para deixar seus pets quando precisar fazer viagens a lazer ou a trabalho e busca lugares com avaliações positivas e disponibilidade de horário. ; Se frustra ao incomodar vizinhos quando precisa ir trabalhar em dias ou horários inesperados e em ter de deixar os pets sozinhos em casa sem saber das suas condições. ; Gosta de Ciclismo, fazer trilha, aprender novos idiomas.
+|6 | VILMA BENEVIDES| PETS  |
+|------|-----------------------------------------|----|
+|IDADE | 40 | Poodle de nome Bidu| 
+|OCUPAÇÃO | Professora|Chow Chow de nome Belinha| 
+|MOTIVAÇÕES| 1. Busca um local que possa atender sua cachorra Belinha que possui diabetes e problemas renais, precisando de atenção específica diária. | |
+|FRUSTRAÇÕES|Se frustra pois não consegue mais viajar já que não encontra uma pessoa capacitada para cuidar e oferecer as medicações necessárias para sua cachorra.| | 
+|HOBBIES/HISTÓRIA | 1.   Gosta de viajar. 2. Aprender novos idiomas. 3. Conhecer novas culturas. | | 
 
-4. Carla Vitória: 25 anos; Dentista. Possui consultório próprio e também atua dando palestras/cursos presenciais e online; Possui um Yorkshire e Pug de nomes Theo e Max; Deseja encontrar um hotel de qualidade para seu pet que seja próximo a sua casa para fazer viagens a trabalho sem preocupações; Se frustra pela falta de confiança nos hotéis que tem encontrado e se preocupa durante suas viagens sem saber se seu pet está sendo bem cuidado ou não.; Gosta de assistir filmes, viajar e cozinhar.
 
-5. Frascis Carneiro: 25 anos; Atendente de telemarketing.; Possui American Bully & Vira-lata; Deseja encontrar locais em que possa fazer o agendamento para hospedar seu pet. ; Se frustra por não poder sair com a namorada sem levar os cachorros, pois não consegue deixá-los sozinhos. ; Gosta de Video-Game, Sinuca e Jiu-Jitsu.
 
-6. Vilma Benevides: 40 anos; Professora; Possui um Poodle de nome Bidu e  Chow Chow de nome Belinha; Busca um local que possa atender sua cachorra Belinha que possui diabetes e problemas renais, precisando de atenção específica diária. ; Se frustra pois não consegue mais viajar já que não encontra uma pessoa capacitada para cuidar e oferecer as medicações necessárias para sua cachorra.; Gosta de viajar, aprender novos idiomas e conhecer novas culturas.
+
+
 
 
 ## Histórias de Usuários
