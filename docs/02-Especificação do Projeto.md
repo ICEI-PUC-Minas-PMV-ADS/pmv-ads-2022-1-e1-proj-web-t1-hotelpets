@@ -135,8 +135,11 @@ ATIVIDADES COMUNS ENTRE USUÁRIOS VISITANTES E CADASTRADOS
 |ID    | Descrição do Requisito  | Prioridade (Moscow)  |
 |------|-----------------------------------------|----|
 |RF-001| O sistema deve permitir a busca de hospedagens a partir de um endereço e de um período entre datas informadas pelo usuário. | M | 
-|RF-002| O sistema deve possuir filtros de pesquisa de tamanhos dos cachorros.   | M |
+|RF-002| O sistema deve possuir filtros de faixa de preço de hospedagem, tamanho e caracteristicas da hospedagem.   | M |
 |RF-003| O sistema deve mostrar o local exato no mapa de onde ficam os hotéis.   | M |
+|RF-004| O sistema deve mostrar detalhes com fotos e valores referente aos hotéis.   | M |
+|RF-005| O sistema deve mostrar especificadamente o que o hotel oferece.   | M |
+|RF-006| O sistema deve mostrar avaliações dos hotéis.  | M |
 
 ATIVIDADES ESPECÍFICAS PARA USUÁRIO CADASTRADO
 
