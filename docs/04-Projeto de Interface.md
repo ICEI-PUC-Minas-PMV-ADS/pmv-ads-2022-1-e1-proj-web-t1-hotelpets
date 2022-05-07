@@ -15,11 +15,11 @@ O diagrama apresentado na figura a seguir mostra o fluxo de interação do usuá
 
 ### Tela 01: Página Inicial
 
-![Tela 01: Página Inicial](img/telaPaginaInicial.jpg)
+![Tela 01: Página Inicial](https://user-images.githubusercontent.com/103954209/167274114-fd8506c9-9481-487b-bab5-f6a52b898e05.png)
 
 ### Tela 02: Retorno da Busca de Hospedagens
 
-![Tela 02: Retorno da Busca de Hospedagens](img/telaBuscaHospedagens.png)
+![Tela 02: Retorno da Busca de Hospedagens](https://user-images.githubusercontent.com/103954209/167274099-64c6ce46-5b39-483b-895b-0e3bbe020c39.png)
 
 ### Tela 03: Hospedagem Específica
 
