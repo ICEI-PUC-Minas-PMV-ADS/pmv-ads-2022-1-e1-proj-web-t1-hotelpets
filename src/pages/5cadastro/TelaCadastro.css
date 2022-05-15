@@ -1,1 +1,41 @@
-/* Iniciando css tela Cadastro /* 
+/* Iniciando css tela Cadastro /*
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TelaCadastro</title>
+    <link rel="stylesheet" href="TelaCadastro.css">
+</head>
+<body>
+    <div id="BemVindoDeVolta">
+        <h1>Bem-vindo <br>de volta</h1>
+        <p>Acesse sua conta agora <br> mesmo</p>
+        <input type="submit" value="Entrar">
+        <a href="#" id="forgot-pass" > Esqueci minha senha</a>
+    </div>
+    
+    <div id="main-container">
+        <h2>Crie sua conta</h2>
+        <p id="paragrafo2">Preencha seus dados e cadastre-se agora mesmo</p>
+        <form id="register-form">
+            <div class="full-box">
+            <label for="name" > <img src="Pessoa.png" alt=""></label>
+            <input type="name" name="name" id="name" placeholder= "Nome">
+        </div>
+        <div class="full-box spacing">
+            <label for="e-mail" > <img src="Envelope2.png" alt=""></label>
+            <input type="e-mail" name="e-mail" id="e-mail" placeholder="E-mail">
+        </div>
+        <div class="full-box spacing">
+            <label for="password" > <img src="Chave.png" alt=""></label>
+            <input type="password" name="password" id="password" placeholder="Senha">
+        </div>
+        <div class="full-box">
+            <input type="submit" id="btn-submit" value="Cadastrar">
+        </div>
+        </form>
+    </div>
+</body>
+</html>
