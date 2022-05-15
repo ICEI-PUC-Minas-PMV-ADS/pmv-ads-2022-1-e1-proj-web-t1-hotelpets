@@ -1,1 +1,119 @@
 /* Iniciando css  /* 
+/* Geral */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+}
+
+textarea:focus, input:focus {
+    outline: none;
+}
+
+a{
+    font-size: .8rem;
+}
+
+a:hover{
+    color: rgba(191, 198, 223, 0.7)
+}
+
+h1{
+    margin-right: 50px;
+}
+
+/*  Container Login */
+
+#login-container {
+    background-color: white;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 30px;
+    margin-top: 10vh;
+    border-color: grey;
+    text-align: center;
+}
+
+
+/* formulario */
+
+form{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+label, input {
+    display: block;
+    width: 100%;
+    text-align: left;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+label{
+    font-weight: bold;
+}
+
+input{
+    border: 2px solid lightgray;
+   padding: 10px;
+   margin-bottom: 10px;
+}
+
+input:focus{
+    border: 2px solid rgba(191, 198, 223, 0.7)
+}
+
+#forgot-pass{
+    text-align: center;
+    display: block;
+    margin-bottom: 50px;
+}
+
+input[type="submit"] {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+    border-style: groove;
+    border-color: rgba(191, 198, 223, 0.7);
+    background-color: rgba(191, 198, 223, 0.7);
+    border-radius: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover{
+    background-color: lightslategray;
+    transition: .10s;
+}
+
+p{
+    margin-top: 50px
+}
+
+#register-container{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 30px;
+    margin-top: -60px
+}
+
+#register-container, a{
+    text-align: left;
+}
+
+#register{
+    width: 400px;
+    margin-left: auto;
+    margin-right: 500px;
+    padding: 20px 30px;
+    margin-top: -60px;
+}
