@@ -6,7 +6,8 @@ A ser especificado em breve.
 
 ## Histórico de versões
 
-### [0.0.0] - 15/05/2022
+### [0.0.0] - 15/05/2022 - Desenvolvido na branch development.
+
 #### Concluído (com possibilidade de optimização)
 - Login
 - Cadastro
