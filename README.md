@@ -14,7 +14,6 @@ Este projeto tem como objetivo possibilitar que donos de cachorros que buscam lo
 * Kamilly Rebelo
 * Rafaella Tayla
 * Robert Teixeira
-* Victor Azevedo
 
 ## Orientador
 
