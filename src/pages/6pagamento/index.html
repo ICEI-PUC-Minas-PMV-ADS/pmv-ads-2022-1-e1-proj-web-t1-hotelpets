@@ -1,1 +1,53 @@
-<!-- Iniciando HTML da tela Cadastro-->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagamento</title>
+    <img src="logo.png" alt="logo1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<nav class="inicio">    
+<h2>Pedir para reservar</h2>
+</nav>
+<nav class="hospedagem">
+</br><h4>Hospedagem do seu Pet</h4>
+</nav>
+<div class="datas">
+           <h4>Datas</h4></div>
+         <input type="text"id="txtBusca"placeholder="15-18 de abril"/>
+  <button id="btnBusca">Editar</button>
+</nav>
+<div class="pagamento">
+</br><h3>Pagar com</h3> <img src="logo2.png" alt="pagamento">
+<form method="post" action="cadastrar-opções">
+<select name="pag">
+<option value="cred">Cartão de Crédito</option>
+<option value="debit">Cartão de Débito</option>
+<option value="Dinheiro">Dinheiro</option>
+<option value="Pix">Pix</option>
+</select></div></br>
+<div class="form1"></div>
+<h3>Dados do Cartão</h3>
+<input type="text" placeholder="0000 0000 0000 0000" />
+<div class="dados">
+    <input type="text" placeholder="MM/AA"/>
+    <input type="text" placeholder="CVV"/></div>
+    <div class="form2">
+        <input type="text" placeholder="Nome"/></br>
+        <input type="text" placeholder="Sobrenome"/></br>
+        <input type="text" placeholder="CPF" />
+            </div>
+        </br><form method="post" action="cadastrar-opções">
+                <select name="local">
+                <option value="cred">Brasil</option>
+                <option value="out">Outros</option>
+            <div class="form3">
+        <input type="submit" value="Finalizar"/>
+</div>
+
+</body>
+</html>
