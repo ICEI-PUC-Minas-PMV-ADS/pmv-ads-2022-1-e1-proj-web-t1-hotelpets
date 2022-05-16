@@ -1,0 +1,113 @@
+:root{
+    --fontePrincipal: #3F3E41;
+    --fundoMenu: #FFFFFF;
+    --fundoDescricao: #BFC6DF;
+    --fundoMain: #FFFFFF;
+    --fonteMain: #333333;
+    --fundoSobre: #F9F9F9;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header .menu{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color:var(--fundoMenu);
+    padding: 24px;
+
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color:var(--logoImaginaria);
+}
+
+a{
+    text-decoration: none;
+    color: var(--fontePrincipal);
+    margin-right: 15px;
+    font-size: 13px;
+    font-weight: bold;
+
+}
+
+/* Main */
+
+.destaque{
+    font-size: 20px;
+    background: var(--fundoDescricao);
+    height:500px;
+    background-size:cover;
+    color: antiquewhite; 
+    justify-content: center;
+    display: flex;
+
+}
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin-top: 5%;
+    padding: 1%;
+    text-align: center;
+    font-weight: bolder;
+    color: var(--fonteMain)
+    
+}
+.descricao{
+    text-align: center;
+    color: var(--fonteMain)
+}
+
+.procura {
+    text-align:center;
+}
+
+.sobre{
+    font-size: 20px;
+    background: var(--fundoSobre);
+    height:400px;
+    color: #657483;
+    text-align: center;
+ 
+  
+}
+
+.descSobre1{
+    display: inline-block;
+    text-align:center;
+    height: 14px;
+    flex-direction: column;
+    padding: 5px;
+    margin: 20px;
+    
+}
+
+footer{
+    padding: 1em;
+    font-size: 20px;
+    background: var(--fundoDescricao);
+    height:200px;
+    text-align: center;
+    justify-content: center;
+  
+}
+
+.todoFooter {
+    display: column;
+    flex-direction:row;
+}
+
+.f1 {
+text-align: center;
+display: inline-block;
+width: 150px;
+}
