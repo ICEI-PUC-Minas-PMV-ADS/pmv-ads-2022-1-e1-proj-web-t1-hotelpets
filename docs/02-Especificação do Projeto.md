@@ -140,14 +140,16 @@ ATIVIDADES COMUNS ENTRE USUÁRIOS VISITANTES E CADASTRADOS
 |RF-004| O sistema deve mostrar detalhes com fotos e valores referente aos hotéis.   | M |
 |RF-005| O sistema deve mostrar especificadamente o que o hotel oferece.   | M |
 |RF-006| O sistema deve mostrar avaliações dos hotéis.  | M |
+|RF-007| O sistema deve possuir uma pagina que permita o cadastro na plataforma.  | M |
 
 ATIVIDADES ESPECÍFICAS PARA USUÁRIO CADASTRADO
 
 |ID    | Descrição do Requisito  | Prioridade (Moscow) |
 |------|-----------------------------------------|----|
-|RF-004| O sistema deve permitir que os usuários realizem agendamentos.| M | 
-|RF-005| O sistema permitirá o contato entre cliente e responsável pela hospedagem.   | C |
-|RF-006| O sistema permitirá que o usuário insira avaliações sobre os locais em que realizou contato ou hospedagem. | M |
+|RF-008| O sistema deve permitir que os usuários realizem agendamentos.| M | 
+|RF-009| O sistema permitirá o contato entre cliente e responsável pela hospedagem.   | C |
+|RF-010| O sistema permitirá que o usuário insira avaliações sobre os locais em que realizou contato ou hospedagem. | M |
+|RF-011| O sistema deve possuir uma pagina de login para usuários ja cadastrados.  | M |
 
 Obs.: Sobre o método MoSCow de priorização
 
