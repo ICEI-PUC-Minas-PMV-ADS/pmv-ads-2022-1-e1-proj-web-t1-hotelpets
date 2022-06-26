@@ -95,9 +95,39 @@ height: 321px;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 90px;
+  padding: 10px;
   gap: 70px;
 }
+
+.menu {
+  
+  display: inline-block;
+  width: 390px;
+  margin-left: 600px;
+  height: 780px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  
+}
+
+.principal {
+
+display: inline-block;
+width: 660px;
+margin-left: 10px;
+height: 780px;
+margin-bottom: 20px;
+margin-top: 50px;
+}
+
+.filtro {
+margin-top: 20px;
+
+}
+
+
+
+
 
 
 footer{
@@ -134,3 +164,10 @@ footer{
   display: block;
   transition: all 0.3s ease;
 }
+
+
+
+
+
+
+
