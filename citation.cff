@@ -1,0 +1,24 @@
+message: Please cite this software using these metadata.
+title: HomePet
+authors:
+  - family-names: Grimaldi Santa Anna
+    given-names: Jéssica 
+  - family-names: Rebelo
+    given-names: Kamilly 
+  - family-names: Alvarenga Rodrigues
+    given-names: Rafael 
+  - family-names: Tayla
+    given-names: Rafaella
+  - family-names: Teixeira
+    given-names: Robert
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Christina De Paiva Carvalho
+    given-names: Joyce
+keywords:
+  - Pets
+  - Hospedagem
+  - Agendamento
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/homePet-FrontEnd.git
+version: 1.0.0
+date-released: 2022-06-20
